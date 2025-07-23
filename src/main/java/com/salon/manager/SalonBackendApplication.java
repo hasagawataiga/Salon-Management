@@ -1,4 +1,4 @@
-package com.salon.manager.salon_backend;
+package com.salon.manager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
